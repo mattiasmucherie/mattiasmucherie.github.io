@@ -2126,7 +2126,7 @@ header h6 + p {
 }
 
 header.major {
-  margin: 0 0 1em 0;
+  margin: 0 0 0 0;
 }
 
 header.major:after {
@@ -3611,4 +3611,7 @@ body.is-preload #header:after {
   #footer {
     padding: 2em 1em 2em 1em;
   }
+}
+#three {
+  padding-top: 0px;
 }
